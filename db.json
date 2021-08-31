@@ -1,0 +1,19 @@
+{
+  "user": [
+    {
+      "name": "Rahul Srivastav",
+      "age": "31",
+      "id": "5"
+    },
+    {
+      "name": "Aakash Singh",
+      "age": "41",
+      "id": "465"
+    },
+    {
+      "name": "Hello",
+      "age": "69",
+      "id": "2344"
+    }
+  ]
+}
